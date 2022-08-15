@@ -1,4 +1,4 @@
-## Oi, Eu sou Rodolfo Montes 👋
+## Oi, eu sou Rodolfo Montes 👋
 ### Bem vindos ao Github
 
 <div>
